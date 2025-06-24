@@ -7,7 +7,7 @@ Reviewed: 18.11.2024
 # Table of Contents
  
 1. [Team Publications](#team-publications)
-2. [Useful Links](#useful-uinks)
+2. [Useful Links](#useful-links)
  
 # Team Publications
 
